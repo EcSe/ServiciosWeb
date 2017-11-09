@@ -1,0 +1,6 @@
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\bin\Web01.dll.config
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\bin\Web01.dll
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\bin\Web01.pdb
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\obj\Debug\Web01.csprojResolveAssemblyReference.cache
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\obj\Debug\Web01.dll
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\Web01\obj\Debug\Web01.pdb
