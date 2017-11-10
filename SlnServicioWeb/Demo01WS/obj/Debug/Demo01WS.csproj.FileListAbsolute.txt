@@ -1,7 +1,6 @@
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\bin\Debug\Demo01WS.exe.config
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\bin\Debug\Demo01WS.exe
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\bin\Debug\Demo01WS.pdb
-D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\obj\Debug\Demo01WS.csprojResolveAssemblyReference.cache
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\obj\Debug\Demo01WS.Properties.Resources.resources
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\obj\Debug\Demo01WS.csproj.GenerateResource.Cache
 D:\Proyectos\ServiciosWeb\SlnServicioWeb\Demo01WS\obj\Debug\Demo01WS.exe

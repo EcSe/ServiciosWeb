@@ -19,4 +19,17 @@ namespace Demo01WS
             return "Hola Mundo" + nombre + "¡";
         }
     }
+
+    public class Calculadora : ICalculadora
+    {
+        public int resta(int n1, int n2)
+        {
+            return n1 - n2;
+        }
+
+        public int suma(int n1, int n2)
+        {
+            return n1 + n2;
+        }
+    }
 }

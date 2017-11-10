@@ -1,0 +1,9 @@
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\WCFConsola1.exe.config
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\WCFConsola1.exe
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\WCFConsola1.pdb
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\Demo01WS.exe
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\Demo01WS.pdb
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\bin\Debug\Demo01WS.exe.config
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\obj\Debug\WCFConsola1.csprojResolveAssemblyReference.cache
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\obj\Debug\WCFConsola1.exe
+D:\Proyectos\ServiciosWeb\SlnServicioWeb\WCFConsola1\obj\Debug\WCFConsola1.pdb
